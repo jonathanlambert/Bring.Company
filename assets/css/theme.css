@@ -4751,6 +4751,11 @@ input[type="button"].btn-block {
   display: block;
 }
 
+/* bring logo */
+.bring-logo-small.white {
+      fill: #fff;
+}
+
 .navbar {
   position: relative;
   display: flex;
